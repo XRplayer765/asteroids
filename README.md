@@ -19,6 +19,7 @@ Once done, create the virtual env for Python and activate it.
 `source venv/bin/activate`
 
 From here, you can now start playing! Just run the next command to start.
+
 `python3 main.py`
 
 # Controls
