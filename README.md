@@ -19,5 +19,6 @@ From here, you can now start playing! Just run the next command to start.
 
 # Controls
 
-WASD - Move /n
+WASD - Move
+
 Space - Fire
